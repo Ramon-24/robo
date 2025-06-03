@@ -36,3 +36,7 @@ graph TD
     C --> D[Classificação de Gestos]
     D --> E[Execução de Comandos]
     E --> F[Sistema Operacional]
+````
+
+## 📸 Demonstração
+<div align="center"> <img src="demo_gestures.gif" width="600" alt="Demonstração dos gestos"/> </div>
