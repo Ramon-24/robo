@@ -40,3 +40,17 @@ graph TD
 
 ## 📸 Demonstração
 <div align="center"> <img src="demo_gestures.gif" width="600" alt="Demonstração dos gestos"/> </div>
+
+
+## Como Executar
+```
+git clone https://github.com/Ramon-24/GestureControl
+cd GestureControl
+
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate  # Windows
+
+pip install -r requirements.txt
+python main.py
+````
