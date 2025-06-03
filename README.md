@@ -54,3 +54,6 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 python main.py
 ````
+
+## 🎮 GameHub
+<p align="center"> <strong>Plataforma de gamificação educacional</strong> </p><div align="center"> <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/> </div>
