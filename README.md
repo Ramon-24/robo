@@ -67,7 +67,7 @@ Visa oferecer acessibilidade, inovação e praticidade, integrando visão comput
 
 ```bash
 # 1. Clone o repositório
-$ git clone https://github.com/seu-usuario/robo
+$ git clone https://github.com/Ramon-24/robo.git
 
 # 2. Extraia o conteúdo se estiver compactado
 # (Ex: botão direito > Extrair aqui)
