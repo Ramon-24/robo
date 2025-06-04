@@ -1,20 +1,15 @@
----
 
-<p align="center">
+<h1 align="center">🤖 Robô — Automação com Gestos das Mãos</h1>
+
+<p align="center"><strong>Controle total com um movimento: a tecnologia na ponta dos dedos</strong></p>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Projeto-rob%C3%B4%20%7C%20Automação%20por%20Gestos-1B67A4?style=for-the-badge" alt="Badge do projeto"/>
-</p>
-
-<p align="center">
-<h1 align="center">
-  # 🤖 Robô — Automação com Gestos das Mãos
-</h1>
-  <h2 align="center">
-    Controle total com um movimento: a tecnologia na ponta dos dedos.
-  </h2>
-</p>
-
+</div>
 
 ---
+
+
 
 ### 🧠 Sobre o Projeto
 
